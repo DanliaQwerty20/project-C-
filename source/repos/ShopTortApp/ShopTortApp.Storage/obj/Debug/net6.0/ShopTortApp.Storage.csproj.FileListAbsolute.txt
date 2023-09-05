@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\bin\Debug\net6.0\ShopTortApp.Storage.deps.json
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\bin\Debug\net6.0\ShopTortApp.Storage.runtimeconfig.json
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\bin\Debug\net6.0\ShopTortApp.Storage.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\bin\Debug\net6.0\ShopTortApp.Storage.pdb
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\refint\ShopTortApp.Storage.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.pdb
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ShopTortApp.Storage.genruntimeconfig.cache
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Storage\obj\Debug\net6.0\ref\ShopTortApp.Storage.dll
