@@ -88,3 +88,4 @@ C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp\bin\Debug\net6.0\System.CodeD
 C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp\obj\Debug\net6.0\ShopTortApp.MvcApplicationPartsAssemblyInfo.cs

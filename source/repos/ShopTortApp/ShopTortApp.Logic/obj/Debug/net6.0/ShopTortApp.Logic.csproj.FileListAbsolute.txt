@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\bin\Debug\net6.0\ShopTortApp.Logic.deps.json
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\bin\Debug\net6.0\ShopTortApp.Logic.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\bin\Debug\net6.0\ShopTortApp.Logic.pdb
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\bin\Debug\net6.0\ShopTortApp.Storage.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\bin\Debug\net6.0\ShopTortApp.Storage.pdb
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.csproj.CopyComplete
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\refint\ShopTortApp.Logic.dll
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ShopTortApp.Logic.pdb
+C:\Users\Alex\source\repos\ShopTortApp\ShopTortApp.Logic\obj\Debug\net6.0\ref\ShopTortApp.Logic.dll

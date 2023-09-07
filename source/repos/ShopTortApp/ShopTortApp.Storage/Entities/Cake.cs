@@ -17,7 +17,7 @@ namespace ShopTortApp.Storage.Entities
 
         public int price { get; set; }
 
-        public int filePath { get; set; }
+        public string filePath { get; set; }
 
         public int FavorityId { get; set; }
 

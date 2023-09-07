@@ -14,7 +14,7 @@ namespace ShopTortApp.Storage.Entities
         public int Id { get; set; }
 
 
-        public string price { get; set; }
+        public int price { get; set; }
 
         public int counterCake { get; set; }
 

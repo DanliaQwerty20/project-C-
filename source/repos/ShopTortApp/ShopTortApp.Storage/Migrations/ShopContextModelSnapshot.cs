@@ -39,8 +39,9 @@ namespace ShopTortApp.Storage.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("filePath")
-                        .HasColumnType("int");
+                    b.Property<string>("filePath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("name")
                         .IsRequired()
@@ -76,8 +77,9 @@ namespace ShopTortApp.Storage.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("password")
-                        .HasColumnType("int");
+                    b.Property<string>("password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -163,9 +165,8 @@ namespace ShopTortApp.Storage.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("price")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("price")
+                        .HasColumnType("int");
 
                     b.Property<int>("status")
                         .HasColumnType("int");

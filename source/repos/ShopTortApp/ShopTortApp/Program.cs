@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ShopTortApp.Storage;
 
-internal class Program
+public class Program
 {
     private static void Main(string[] args)
     {
@@ -14,7 +14,11 @@ internal class Program
         builder.Services.AddDbContext<ShopContext>(param => param.UseSqlServer(connectionString));
 
         var app = builder.Build();
-
+        app.UseRouting();
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+        });
 
 
         // Configure the HTTP request pipeline.
