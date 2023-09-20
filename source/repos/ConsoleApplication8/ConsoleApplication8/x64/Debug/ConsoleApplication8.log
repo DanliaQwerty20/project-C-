@@ -1,0 +1,4 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\Alex\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(11,46): warning C4101: gradfx12: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(11,36): warning C4101: gradfx11: неиспользованная локальная переменная
+  ConsoleApplication8.vcxproj -> C:\Users\Alex\source\repos\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe

@@ -20,6 +20,8 @@ namespace ShopTortApp.Storage.Entities
 
         public string filePath { get; set; }
 
+        public string fileImg {get; set; }
+
         public virtual ICollection<Order> orders { get; set; }
     }
 }

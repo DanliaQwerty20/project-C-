@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PIcVUUHK3tt39EimLjtjvdmvuvsSPs3Ao215gR0he2sJrH9JGx/1VvRFZNMnRZcwrK6nCfDqqkPoDrDdRRDGIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\laba_2_windows_form_program\\laba_2_windows_form_program\\laba_2_windows_form_program.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.27\\microsoft.windows.sdk.net.ref.10.0.22000.27.nupkg.sha512"
+  ],
+  "logs": []
+}

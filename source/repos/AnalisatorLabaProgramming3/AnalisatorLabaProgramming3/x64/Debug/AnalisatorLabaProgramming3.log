@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Alex\source\repos\AnalisatorLabaProgramming3\AnalisatorLabaProgramming3\Source.cpp(36,22): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  AnalisatorLabaProgramming3.vcxproj -> C:\Users\Alex\source\repos\AnalisatorLabaProgramming3\x64\Debug\AnalisatorLabaProgramming3.exe

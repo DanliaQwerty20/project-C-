@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Alex\source\repos\Project3\Project3\Source.cpp(335): warning C4715: menu: значение возвращается не при всех путях выполнения
+  Project3.vcxproj -> C:\Users\Alex\source\repos\Project3\x64\Debug\Project3.exe

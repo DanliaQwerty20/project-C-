@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Alex\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(70,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Alex\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(71,23): warning C4101: c: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> C:\Users\Alex\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

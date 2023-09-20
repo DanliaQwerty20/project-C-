@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\bin\Debug\net6.0\Laba1Help.exe
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\bin\Debug\net6.0\Laba1Help.deps.json
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\bin\Debug\net6.0\Laba1Help.runtimeconfig.json
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\bin\Debug\net6.0\Laba1Help.dll
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\bin\Debug\net6.0\Laba1Help.pdb
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.dll
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\refint\Laba1Help.dll
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.pdb
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\Laba1Help.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Laba1Help\Laba1Help\obj\Debug\net6.0\ref\Laba1Help.dll

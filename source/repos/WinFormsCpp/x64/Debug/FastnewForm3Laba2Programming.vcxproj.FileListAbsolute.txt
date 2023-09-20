@@ -1,0 +1,4 @@
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\x64\Debug\FastnewForm3Laba2Programming.vcxproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\x64\Debug\FastnewForm3Laba2Programming.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\x64\Debug\FastnewForm3Laba2Programming.MyForm.resources
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\x64\Debug\FastnewForm3Laba2Programming.vcxproj.GenerateResource.cache

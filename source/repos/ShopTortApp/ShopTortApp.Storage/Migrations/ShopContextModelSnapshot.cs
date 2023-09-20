@@ -39,6 +39,10 @@ namespace ShopTortApp.Storage.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("fileImg")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("filePath")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -123,6 +127,10 @@ namespace ShopTortApp.Storage.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("fileImg")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

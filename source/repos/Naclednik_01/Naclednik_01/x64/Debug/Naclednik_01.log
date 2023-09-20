@@ -1,0 +1,4 @@
+﻿  Naclednik_01.cpp
+C:\Users\Alex\source\repos\Naclednik_01\Naclednik_01\Naclednik_01.cpp(93,19): warning C4101: space: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Naclednik_01\Naclednik_01\Naclednik_01.cpp(93,12): warning C4101: plane: неиспользованная локальная переменная
+  Naclednik_01.vcxproj -> C:\Users\Alex\source\repos\Naclednik_01\x64\Debug\Naclednik_01.exe

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Confectionery6PiecesTest1.props" />
+</Project>

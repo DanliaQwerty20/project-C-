@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgramCtryctLaba5Sort", "ProgramCtryctLaba5Sort\ProgramCtryctLaba5Sort.vcxproj", "{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Debug|x64.ActiveCfg = Debug|x64
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Debug|x64.Build.0 = Debug|x64
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Debug|x86.Build.0 = Debug|Win32
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Release|x64.ActiveCfg = Release|x64
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Release|x64.Build.0 = Release|x64
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Release|x86.ActiveCfg = Release|Win32
+		{E3BD340E-DAD4-4E29-882B-F47FE5B3D08A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A556BAAC-F2F8-42D2-BE3B-A21047C1A030}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\bin\Debug\net6.0\ProverkaAnalizator.exe
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\bin\Debug\net6.0\ProverkaAnalizator.deps.json
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\bin\Debug\net6.0\ProverkaAnalizator.runtimeconfig.json
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\bin\Debug\net6.0\ProverkaAnalizator.dll
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\bin\Debug\net6.0\ProverkaAnalizator.pdb
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.dll
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\refint\ProverkaAnalizator.dll
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.pdb
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ProverkaAnalizator.genruntimeconfig.cache
+C:\Users\Alex\source\repos\ProverkaAnalizator\ProverkaAnalizator\obj\Debug\net6.0\ref\ProverkaAnalizator.dll

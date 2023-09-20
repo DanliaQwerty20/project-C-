@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\Users\Alex\source\repos\ConsoleApplication3\ConsoleApplication3\Source.cpp(40,12): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\ConsoleApplication3\ConsoleApplication3\Source.cpp(159,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\ConsoleApplication3\ConsoleApplication3\Source.cpp(291,9): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\ConsoleApplication3\ConsoleApplication3\Source.cpp(291,15): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\ConsoleApplication3\ConsoleApplication3\Source.cpp(330,15): warning C4101: i: неиспользованная локальная переменная
+Source.obj : error LNK2005: "void __cdecl add(void)" (?add@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "int __cdecl get_1(char const *)" (?get_1@@YAHPEBD@Z) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl poisk(void)" (?poisk@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl print_menu(void)" (?print_menu@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl udoli(void)" (?udoli@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl vivod(void)" (?vivod@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl vivod_1(void)" (?vivod_1@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl vivod_2(void)" (?vivod_2@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl vvod(void)" (?vvod@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl vvod_1(void)" (?vvod_1@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "void __cdecl vvod_2(void)" (?vvod_2@@YAXXZ) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: main уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "struct tablichka * x" (?x@@3PAUtablichka@@A) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "int i" (?i@@3HA) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "int f" (?f@@3HA) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "int k" (?k@@3HA) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "struct _iobuf * file" (?file@@3PEAU_iobuf@@EA) уже определен в ConsoleApplication3.obj
+Source.obj : error LNK2005: "char * b" (?b@@3PADA) уже определен в ConsoleApplication3.obj
+C:\Users\Alex\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

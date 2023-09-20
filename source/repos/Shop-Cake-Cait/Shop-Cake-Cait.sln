@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop-Cake-Cait", "Shop-Cake-Cait\Shop-Cake-Cait.csproj", "{321FDFC5-83A8-4FE1-B020-A6B219EA23A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop-Cake-Cait.Storage", "Shop-Cake-Cait.Storage\Shop-Cake-Cait.Storage.csproj", "{CF64DF73-93D9-4C54-BA43-3244208F41EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321FDFC5-83A8-4FE1-B020-A6B219EA23A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321FDFC5-83A8-4FE1-B020-A6B219EA23A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321FDFC5-83A8-4FE1-B020-A6B219EA23A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321FDFC5-83A8-4FE1-B020-A6B219EA23A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29AD1CA3-AB76-44A0-B62D-8A86D3374F60}
+	EndGlobalSection
+EndGlobal

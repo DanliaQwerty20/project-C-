@@ -1,0 +1,5 @@
+﻿  Class.cpp
+  Source.cpp
+C:\Users\Alex\source\repos\For_Lesha_Laba3\For_Lesha_Laba3\Source.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  For_Lesha_Laba3.vcxproj -> C:\Users\Alex\source\repos\For_Lesha_Laba3\x64\Debug\For_Lesha_Laba3.exe

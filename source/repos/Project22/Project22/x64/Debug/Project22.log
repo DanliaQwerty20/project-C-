@@ -1,0 +1,5 @@
+﻿  mas.cpp
+  Source.cpp
+C:\Users\Alex\source\repos\Project22\Project22\Source.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Project22.vcxproj -> C:\Users\Alex\source\repos\Project22\x64\Debug\Project22.exe
