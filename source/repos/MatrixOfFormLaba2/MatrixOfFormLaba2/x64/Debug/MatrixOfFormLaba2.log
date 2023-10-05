@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\Alex\source\repos\MatrixOfFormLaba2\MatrixOfFormLaba2\MyForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : error LNK2020: неразрешенная лексема (06000007) MatrixOfFormLaba2.MyForm::button1_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (06000008) MatrixOfFormLaba2.MyForm::buttonArr1_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (06000009) MatrixOfFormLaba2.MyForm::buttonArr2_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (0600000C) MatrixOfFormLaba2.MyForm::MatrixMArr_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (0600000D) MatrixOfFormLaba2.MyForm::MatrixNArr_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (0600000F) MatrixOfFormLaba2.MyForm::NameMatrixArr_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (06000010) MatrixOfFormLaba2.MyForm::buttonBrr1_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (06000011) MatrixOfFormLaba2.MyForm::buttonBrr2_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (06000014) MatrixOfFormLaba2.MyForm::MatrixMBrr_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (06000015) MatrixOfFormLaba2.MyForm::MatrixNBrr_Click
+MyForm.obj : error LNK2020: неразрешенная лексема (06000016) MatrixOfFormLaba2.MyForm::MatrixBrr_CellContentClick
+C:\Users\Alex\source\repos\MatrixOfFormLaba2\x64\Debug\MatrixOfFormLaba2.exe : fatal error LNK1120: неразрешенных внешних элементов: 11

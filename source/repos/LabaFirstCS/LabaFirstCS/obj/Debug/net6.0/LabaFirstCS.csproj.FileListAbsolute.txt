@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\bin\Debug\net6.0\LabaFirstCS.exe
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\bin\Debug\net6.0\LabaFirstCS.deps.json
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\bin\Debug\net6.0\LabaFirstCS.runtimeconfig.json
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\bin\Debug\net6.0\LabaFirstCS.dll
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\bin\Debug\net6.0\LabaFirstCS.pdb
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.AssemblyInfo.cs
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.dll
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\refint\LabaFirstCS.dll
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.pdb
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\LabaFirstCS.genruntimeconfig.cache
+C:\Users\Alex\source\repos\LabaFirstCS\LabaFirstCS\obj\Debug\net6.0\ref\LabaFirstCS.dll

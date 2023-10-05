@@ -21,9 +21,10 @@ namespace ShopTortApp.Storage.Entities
 
         public int FavorityId { get; set; }
 
+        public string fileImg { get; set; }
+        
         public virtual Favorite Favorite { get; set; }
-
-
+        
         public virtual ICollection<Order> orders { get; set; }
     }
 }

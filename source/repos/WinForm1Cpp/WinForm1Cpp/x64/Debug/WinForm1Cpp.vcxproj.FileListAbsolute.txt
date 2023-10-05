@@ -1,0 +1,4 @@
+C:\Users\Alex\source\repos\WinForm1Cpp\WinForm1Cpp\x64\Debug\WinForm1Cpp.vcxproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\WinForm1Cpp\WinForm1Cpp\x64\Debug\WinForm1Cpp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\WinForm1Cpp\WinForm1Cpp\x64\Debug\WinForm1Cpp.MyForm.resources
+C:\Users\Alex\source\repos\WinForm1Cpp\WinForm1Cpp\x64\Debug\WinForm1Cpp.vcxproj.GenerateResource.cache

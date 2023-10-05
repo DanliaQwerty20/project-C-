@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\bin\Debug\WindowsFormLaba3Stankin.exe.config
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\bin\Debug\WindowsFormLaba3Stankin.exe
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\bin\Debug\WindowsFormLaba3Stankin.pdb
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.Properties.Resources.resources
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.exe
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.pdb
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\bin\Debug\TestBd.mdf
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\bin\Debug\TestBd_log.ldf
+C:\Users\Alex\source\repos\WindowsFormLaba3Stankin\WindowsFormLaba3Stankin\obj\Debug\WindowsFormLaba3Stankin.Form1.resources

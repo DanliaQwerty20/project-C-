@@ -1,0 +1,62 @@
+﻿  Source.c
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(33,8): warning C4013: Sleep: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(34,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(76,15): warning C4047: return: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(99,6): warning C4013: atoll: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(100,9): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(14,16): warning C4047: инициализация: "__int64" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(15,70): warning C4101: kk: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(15,67): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(39,12): warning C4101: cgg: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(110,3): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(136,58): warning C4133: =: несовместимые типы - из "int *" в "char *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(145,35): warning C4133: функция: несовместимые типы - из "char *" в "int *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(182,27): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(187,22): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(191,12): warning C4047: =: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(193,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(189,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(208,24): warning C4047: ==: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(222,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(200,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(253,27): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(258,22): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(263,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(280,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(281,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(229,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(298,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(302,10): warning C4013: freedom: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(302,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(292,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(323,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(327,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(317,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(373,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(359,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(387,40): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(403,40): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(462,11): warning C4098: change2: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(473,12): warning C4098: change2: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(475,27): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(480,22): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(493,11): warning C4098: change: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(506,13): warning C4098: change: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(514,28): warning C4133: =: несовместимые типы - из "char *" в "int *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(527,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(529,38): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(537,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(521,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(558,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(560,38): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(568,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(552,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(649,24): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(679,40): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(699,39): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(883,24): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(918,22): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(583,9): warning C4101: prov: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(583,6): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Project15\Project15\Source.c(355): warning C4715: freedom: значение возвращается не при всех путях выполнения
+  Project15.vcxproj -> C:\Users\Alex\source\repos\Project15\x64\Debug\Project15.exe

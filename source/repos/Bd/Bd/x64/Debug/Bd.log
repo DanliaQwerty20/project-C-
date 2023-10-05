@@ -1,0 +1,7 @@
+﻿  Bd.cpp
+C:\Users\Alex\source\repos\Bd\Bd\Bd.cpp(43,12): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Bd\Bd\Bd.cpp(162,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Bd\Bd\Bd.cpp(293,9): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Bd\Bd\Bd.cpp(293,15): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Bd\Bd\Bd.cpp(332,15): warning C4101: i: неиспользованная локальная переменная
+  Bd.vcxproj -> C:\Users\Alex\source\repos\Bd\x64\Debug\Bd.exe

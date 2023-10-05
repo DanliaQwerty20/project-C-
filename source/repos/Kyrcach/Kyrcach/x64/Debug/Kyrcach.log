@@ -1,0 +1,64 @@
+﻿  Source.c
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(34,8): warning C4013: Sleep: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(35,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(77,15): warning C4047: return: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(100,6): warning C4013: atoll: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(101,9): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(15,16): warning C4047: инициализация: "__int64" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(16,70): warning C4101: kk: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(16,67): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(40,12): warning C4101: cgg: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(111,3): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(146,35): warning C4133: функция: несовместимые типы - из "char *" в "int *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(155,13): warning C4047: return: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(183,27): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(188,22): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(192,12): warning C4047: =: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(194,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(195,13): warning C4047: return: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(190,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(209,24): warning C4047: ==: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(223,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(201,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(254,27): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(259,22): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(264,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(281,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(282,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(230,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(299,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(303,10): warning C4013: freedom: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(303,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(293,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(324,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(328,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(318,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(374,12): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(360,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(388,42): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(404,40): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(463,11): warning C4098: change2: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(474,12): warning C4098: change2: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(476,27): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(481,22): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(494,11): warning C4098: change: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(507,13): warning C4098: change: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(515,28): warning C4133: =: несовместимые типы - из "char *" в "int *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(528,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(530,38): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(538,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(522,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(559,11): warning C4047: return: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(561,38): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(569,23): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(553,6): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "listing *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(651,24): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(681,40): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(701,39): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(845,27): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(885,24): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(920,22): warning C4047: =: "listing *" отличается по уровням косвенного обращения от "int"
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(585,9): warning C4101: prov: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(585,6): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\Kyrcach\Kyrcach\Source.c(356): warning C4715: freedom: значение возвращается не при всех путях выполнения
+  Kyrcach.vcxproj -> C:\Users\Alex\source\repos\Kyrcach\x64\Debug\Kyrcach.exe

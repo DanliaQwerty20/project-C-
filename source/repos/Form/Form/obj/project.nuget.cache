@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4a5TEKigraIxp4qgh0S7BiSqQvGeRuWMJgOLe/gRnKsSHGEBb2JcGmD+ppaQgtGLOtxZcbQOrwqDATdCqjoK4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Form\\Form\\Form.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.27\\microsoft.windows.sdk.net.ref.10.0.22000.27.nupkg.sha512"
+  ],
+  "logs": []
+}

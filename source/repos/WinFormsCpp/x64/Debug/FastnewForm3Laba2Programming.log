@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\MyForm.cpp(11,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\MyForm.cpp(104,16): warning C4091: : пропускается слева от "nullptr", когда ни одна переменная не объявлена
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\MyForm.cpp(105,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\MyForm.cpp(109,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\FastnewForm3Laba2Programming\MyForm.cpp(154,9): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FastnewForm3Laba2Programming.vcxproj -> C:\Users\Alex\source\repos\FastnewForm3Laba2Programming\x64\Debug\FastnewForm3Laba2Programming.exe

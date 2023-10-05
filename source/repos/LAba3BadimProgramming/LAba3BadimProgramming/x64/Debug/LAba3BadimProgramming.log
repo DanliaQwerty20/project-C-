@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Alex\source\repos\LAba3BadimProgramming\LAba3BadimProgramming\Source.cpp(127): warning C4715: AddElem: значение возвращается не при всех путях выполнения
+C:\Users\Alex\source\repos\LAba3BadimProgramming\LAba3BadimProgramming\Source.cpp(95): warning C4715: TakeElem: значение возвращается не при всех путях выполнения
+  LAba3BadimProgramming.vcxproj -> C:\Users\Alex\source\repos\LAba3BadimProgramming\x64\Debug\LAba3BadimProgramming.exe

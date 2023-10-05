@@ -1,0 +1,4 @@
+﻿  MatrSolution.cpp
+C:\Users\Alex\source\repos\MatrLaba2PogramForm\MatrLaba2PogramForm\MatrSolution.cpp(9,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Alex\source\repos\MatrLaba2PogramForm\MatrLaba2PogramForm\MatrSolution.cpp(41,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  MatrLaba2PogramForm.vcxproj -> C:\Users\Alex\source\repos\MatrLaba2PogramForm\x64\Debug\MatrLaba2PogramForm.exe

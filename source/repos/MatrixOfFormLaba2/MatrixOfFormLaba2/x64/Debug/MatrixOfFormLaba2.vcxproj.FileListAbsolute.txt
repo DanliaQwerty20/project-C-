@@ -1,0 +1,4 @@
+C:\Users\Alex\source\repos\MatrixOfFormLaba2\MatrixOfFormLaba2\x64\Debug\MatrixOfFormLaba2.vcxproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\MatrixOfFormLaba2\MatrixOfFormLaba2\x64\Debug\MatrixOfFormLaba2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\MatrixOfFormLaba2\MatrixOfFormLaba2\x64\Debug\MatrixOfFormLaba2.MyForm.resources
+C:\Users\Alex\source\repos\MatrixOfFormLaba2\MatrixOfFormLaba2\x64\Debug\MatrixOfFormLaba2.vcxproj.GenerateResource.cache

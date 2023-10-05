@@ -1,0 +1,81 @@
+﻿  Source.cpp
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(36,8): error C3861: Sleep: идентификатор не найден
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(84,4): error C3861: Sleep: идентификатор не найден
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(103,9): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(113,3): error C2561: arsonist: функция должна возвращать значение
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(106,10): message : см. объявление "arsonist"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(149,20): error C2664: "listing *arsonist(int *)": невозможно преобразовать аргумент 1 из "char *" в "int *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(149,29): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(106,10): message : см. объявление "arsonist"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(149,20): message : при попытке сопоставить список аргументов "(char *)"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(158,9): error C2440: return: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(158,9): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(194,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(194,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(196,8): error C2440: =: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(196,8): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(198,9): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(198,9): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(199,9): error C2440: return: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(199,9): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(205,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(205,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(213,18): error C2446: ==: нет преобразования "int" в "int *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(213,21): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(227,9): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(227,9): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(236,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(236,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(270,10): error C2440: return: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(270,10): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(287,9): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(287,9): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(288,9): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(288,9): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(301,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(301,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(307,10): error C2440: return: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(307,10): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(311,10): error C3861: freedom: идентификатор не найден
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(327,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(327,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(333,10): error C2440: return: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(333,10): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(337,10): error C3861: freedom: идентификатор не найден
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(372,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(372,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(386,9): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(386,9): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(473,3): error C2562: change2: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(464,6): message : см. объявление "change2"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(484,4): error C2562: change2: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(464,6): message : см. объявление "change2"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(490,15): error C2440: =: невозможно преобразовать "char *" в "int *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(490,15): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(503,3): error C2562: change: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(494,6): message : см. объявление "change"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(516,5): error C2562: change: функция типа "void", возвращающая значение
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(494,6): message : см. объявление "change"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(524,22): error C2440: =: невозможно преобразовать "char *" в "int *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(524,22): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(531,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(531,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(537,10): error C2440: return: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(537,10): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(546,17): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(546,17): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(561,10): error C2440: инициализация: невозможно преобразовать "listing *" в "int"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(561,10): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(567,10): error C2440: return: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(567,10): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(576,17): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(576,17): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(658,18): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(658,18): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(850,21): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(850,21): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(890,18): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(890,18): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(925,16): error C2440: =: невозможно преобразовать "int" в "listing *"
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(925,16): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Alex\source\repos\Project10\Project10\Source.cpp(933,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"

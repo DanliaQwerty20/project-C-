@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+mvg6krJigHbmu8XY3swwSfl7YNz2s/9Qwofx8QLcX1uYZzwPxZbh5LP4WoBz2ksTnffaQUt8lAMyUsMk04LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Project21\\Project21\\Project21.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.28\\microsoft.windows.sdk.net.ref.10.0.22000.28.nupkg.sha512"
+  ],
+  "logs": []
+}

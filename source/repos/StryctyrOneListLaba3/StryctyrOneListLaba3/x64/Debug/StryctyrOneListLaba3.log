@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Alex\source\repos\StryctyrOneListLaba3\StryctyrOneListLaba3\Source.cpp(73): warning C4715: NextFirstListElement: значение возвращается не при всех путях выполнения
+C:\Users\Alex\source\repos\StryctyrOneListLaba3\StryctyrOneListLaba3\Source.cpp(129): warning C4715: NextElement: значение возвращается не при всех путях выполнения
+  StryctyrOneListLaba3.vcxproj -> C:\Users\Alex\source\repos\StryctyrOneListLaba3\x64\Debug\StryctyrOneListLaba3.exe

@@ -1,0 +1,40 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2352,5): warning MSB3243: не удается разрешить конфликт между "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" и "System". Произвольный выбор "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2352,5): warning MSB3243: не удается разрешить конфликт между "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" и "System.Data". Произвольный выбор "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2352,5): warning MSB3243: не удается разрешить конфликт между "System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" и "System.Drawing". Произвольный выбор "System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2352,5): warning MSB3243: не удается разрешить конфликт между "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" и "System.XML". Произвольный выбор "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+  MyForm.cpp
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(8,35): error C2039: "Forms": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(8,40): error C2871: Forms: пространство имен с таким именем не существует
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(15,52): error C2039: "Forms": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(15,52): error C3083: Forms: символ слева от "::" должен представлять тип
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(15,59): error C2039: "Form": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(16,2): error C2504: Form: не определен базовый класс
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(52,10): error C2039: "Size": не является членом "Project20::MyForm".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(15,19): message : см. объявление "Project20::MyForm"
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(53,1): error C2872: Text: неоднозначный символ
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(53,1): message : может быть "System::Text"
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(53,1): message : или       "System::Drawing::Text"
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(53,1): error C2882: Text: недопустимое использование идентификатора пространства имен в выражении
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(54,10): error C2039: "Padding": не является членом "Project20::MyForm".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(15,19): message : см. объявление "Project20::MyForm"
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(54,37): error C2039: "Forms": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(54,37): error C3083: Forms: символ слева от "::" должен представлять тип
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(54,44): error C2039: "Padding": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(54,1): error C3861: Padding: идентификатор не найден
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(55,10): error C2039: "AutoScaleMode": не является членом "Project20::MyForm".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(15,19): message : см. объявление "Project20::MyForm"
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(55,43): error C2039: "Forms": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(55,50): error C2039: "AutoScaleMode": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(55,43): error C3083: Forms: символ слева от "::" должен представлять тип
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(55,50): error C3083: AutoScaleMode: символ слева от "::" должен представлять тип
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.h(55,65): error C2039: "Font": не является членом "System::Windows".
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(5,23): error C2871: MyForm: пространство имен с таким именем не существует
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(9,2): error C2653: Application: не является именем класса или пространства имен
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(9,15): error C3861: EnableVisualStyles: идентификатор не найден
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(11,2): error C2653: Application: не является именем класса или пространства имен
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(11,15): error C3861: SetCompatibleTextRenderingDefault: идентификатор не найден
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(13,2): error C2653: Application: не является именем класса или пространства имен
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(13,25): error C2061: синтаксическая ошибка: идентификатор "MyForm"
+C:\Users\Alex\source\repos\Project20\Project20\MyForm.cpp(13,15): error C3861: Run: идентификатор не найден
+  .NETCoreApp,Version=v7.0.AssemblyAttributes.cpp
+  Создание кода...

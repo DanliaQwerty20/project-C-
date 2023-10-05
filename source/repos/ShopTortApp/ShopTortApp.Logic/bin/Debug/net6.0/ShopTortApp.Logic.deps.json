@@ -8,12 +8,22 @@
     ".NETCoreApp,Version=v6.0": {
       "ShopTortApp.Logic/1.0.0": {
         "dependencies": {
+          "AWSSDK": "2.3.55.2",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.EntityFrameworkCore": "7.0.10",
+          "NLog": "5.2.4",
           "ShopTortApp.Storage": "1.0.0"
         },
         "runtime": {
           "ShopTortApp.Logic.dll": {}
+        }
+      },
+      "AWSSDK/2.3.55.2": {
+        "runtime": {
+          "lib/net45/AWSSDK.dll": {
+            "assemblyVersion": "2.3.55.2",
+            "fileVersion": "2.3.55.2"
+          }
         }
       },
       "Azure.Core/1.24.0": {
@@ -701,6 +711,14 @@
           }
         }
       },
+      "NLog/5.2.4": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.2.4.2092"
+          }
+        }
+      },
       "System.Buffers/4.5.1": {},
       "System.CodeDom/4.4.0": {
         "runtime": {
@@ -958,7 +976,8 @@
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.Design": "7.0.10",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
+          "NLog": "5.2.4"
         },
         "runtime": {
           "ShopTortApp.Storage.dll": {}
@@ -971,6 +990,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK/2.3.55.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zy/6psTOx9c8LaZqL1tUtiGKMpd35b16TNRctz/N6Qc6hqFeOjyZ5WVhn89szJkkZtotcMFyfq58Y2RfyRxxUg==",
+      "path": "awssdk/2.3.55.2",
+      "hashPath": "awssdk.2.3.55.2.nupkg.sha512"
     },
     "Azure.Core/1.24.0": {
       "type": "package",
@@ -1370,6 +1396,13 @@
       "sha512": "sha512-KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==",
       "path": "mono.texttemplating/2.2.1",
       "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
+    },
+    "NLog/5.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/qzds1Cp9rQD53La3mlWOmCHsFSbmT9BCb8q6k3eOrbOYDfdf3ZN1hBW7IDImUD6V8BfPfEFBhXGDLOEOQxHgQ==",
+      "path": "nlog/5.2.4",
+      "hashPath": "nlog.5.2.4.nupkg.sha512"
     },
     "System.Buffers/4.5.1": {
       "type": "package",

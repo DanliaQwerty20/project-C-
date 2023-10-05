@@ -1,0 +1,11 @@
+﻿  Mathlab2.cpp
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(18,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(19,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(56,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(58,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(60,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(139,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(139,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(153,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Alex\source\repos\Mathlab2\Mathlab2\Mathlab2.cpp(159,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  Mathlab2.vcxproj -> C:\Users\Alex\source\repos\Mathlab2\x64\Debug\Mathlab2.exe

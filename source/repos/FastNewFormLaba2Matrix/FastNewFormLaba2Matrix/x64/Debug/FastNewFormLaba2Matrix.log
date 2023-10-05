@@ -1,0 +1,6 @@
+﻿  Funtions.cpp
+  Source.cpp
+C:\Users\Alex\source\repos\FastNewFormLaba2Matrix\FastNewFormLaba2Matrix\Source.cpp(7,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Alex\source\repos\FastNewFormLaba2Matrix\FastNewFormLaba2Matrix\Source.cpp(39,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  FastNewFormLaba2Matrix.vcxproj -> C:\Users\Alex\source\repos\FastNewFormLaba2Matrix\x64\Debug\FastNewFormLaba2Matrix.exe

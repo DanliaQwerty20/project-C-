@@ -1,0 +1,7 @@
+﻿  aaa.cpp
+C:\Users\Alex\source\repos\aaa\aaa\aaa.cpp(11,11): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\aaa\aaa\aaa.cpp(12,7): warning C4101: q: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\aaa\aaa\aaa.cpp(32,25): warning C4101: s: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\aaa\aaa\aaa.cpp(64,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Alex\source\repos\aaa\aaa\aaa.cpp(64,23): warning C4101: c: неиспользованная локальная переменная
+  aaa.vcxproj -> C:\Users\Alex\source\repos\aaa\x64\Debug\aaa.exe

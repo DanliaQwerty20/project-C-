@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\bin\Debug\net6.0\HelpTanyMun.exe
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\bin\Debug\net6.0\HelpTanyMun.deps.json
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\bin\Debug\net6.0\HelpTanyMun.runtimeconfig.json
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\bin\Debug\net6.0\HelpTanyMun.dll
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\bin\Debug\net6.0\HelpTanyMun.pdb
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.AssemblyInfo.cs
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.dll
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\refint\HelpTanyMun.dll
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.pdb
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\HelpTanyMun.genruntimeconfig.cache
+C:\Users\Alex\source\repos\HelpTanyMun\HelpTanyMun\obj\Debug\net6.0\ref\HelpTanyMun.dll

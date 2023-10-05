@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "AWSSDK/2.3.55.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "Azure.Core/1.24.0": {
         "type": "package",
         "dependencies": {
@@ -1012,6 +1025,19 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         }
       },
+      "NLog/5.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Buffers/4.5.1": {
         "type": "package",
         "compile": {
@@ -1510,7 +1536,8 @@
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.Design": "7.0.10",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
+          "NLog": "5.2.4"
         },
         "compile": {
           "bin/placeholder/ShopTortApp.Storage.dll": {}
@@ -1522,6 +1549,28 @@
     }
   },
   "libraries": {
+    "AWSSDK/2.3.55.2": {
+      "sha512": "zy/6psTOx9c8LaZqL1tUtiGKMpd35b16TNRctz/N6Qc6hqFeOjyZ5WVhn89szJkkZtotcMFyfq58Y2RfyRxxUg==",
+      "type": "package",
+      "path": "awssdk/2.3.55.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.2.3.55.2.nupkg.sha512",
+        "awssdk.nuspec",
+        "lib/net35/AWSSDK.dll",
+        "lib/net35/AWSSDK.pdb",
+        "lib/net45/AWSSDK.dll",
+        "lib/net45/AWSSDK.pdb",
+        "lib/portable-wpa+netcore45/AWSSDK.dll",
+        "lib/windows8/AWSSDK.dll",
+        "lib/windowsphone8/AWSSDK.dll",
+        "tools/account-management.ps1",
+        "tools/net35/install.ps1",
+        "tools/net45/install.ps1"
+      ]
+    },
     "Azure.Core/1.24.0": {
       "sha512": "+/qI1j2oU1S4/nvxb2k/wDsol00iGf1AyJX5g3epV7eOpQEP/2xcgh/cxgKMeFgn3U2fmgSiBnQZdkV+l5y0Uw==",
       "type": "package",
@@ -2727,6 +2776,30 @@
         "lib/netstandard2.0/Mono.TextTemplating.dll",
         "mono.texttemplating.2.2.1.nupkg.sha512",
         "mono.texttemplating.nuspec"
+      ]
+    },
+    "NLog/5.2.4": {
+      "sha512": "/qzds1Cp9rQD53La3mlWOmCHsFSbmT9BCb8q6k3eOrbOYDfdf3ZN1hBW7IDImUD6V8BfPfEFBhXGDLOEOQxHgQ==",
+      "type": "package",
+      "path": "nlog/5.2.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "N.png",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/net46/NLog.dll",
+        "lib/net46/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "nlog.5.2.4.nupkg.sha512",
+        "nlog.nuspec"
       ]
     },
     "System.Buffers/4.5.1": {
@@ -4109,8 +4182,10 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AWSSDK >= 2.3.55.2",
       "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
+      "NLog >= 5.2.4",
       "ShopTortApp.Storage >= 1.0.0"
     ]
   },
@@ -4162,6 +4237,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "AWSSDK": {
+            "target": "Package",
+            "version": "[2.3.55.2, )"
+          },
           "Microsoft.AspNetCore.Mvc.Core": {
             "target": "Package",
             "version": "[2.2.5, )"
@@ -4169,6 +4248,10 @@
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.10, )"
+          },
+          "NLog": {
+            "target": "Package",
+            "version": "[5.2.4, )"
           }
         },
         "imports": [
@@ -4190,5 +4273,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"AWSSDK 2.3.55.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "AWSSDK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
